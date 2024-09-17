@@ -1,0 +1,11 @@
+#resultadoTexto {
+    font-family: monospace;
+}
+
+#resultadoNumeros {
+    font-family: monospace;
+}
+
+#resultadoNumeros span {
+    margin: 0 5px;
+}
