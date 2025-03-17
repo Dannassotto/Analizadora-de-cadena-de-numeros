@@ -9,7 +9,7 @@ botonEnviar.addEventListener("click", () => {
 
     numeros.forEach((numero, indice) => {
         const esPar = numero % 2 === 0;
-        const tamaño = esPar ? `font-size: ${indice + 10}px` : "";
+        const tamaño = esPar ? `font-size: ${indice + 40}px` : "";
         const color = esPar ? "color: blue" : "";
         const estilo = esPar ? `style="${tamaño}; ${color}"` : "";
 
