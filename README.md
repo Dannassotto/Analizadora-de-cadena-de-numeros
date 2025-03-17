@@ -47,13 +47,6 @@ Para utilizar este proyecto en tu entorno local, sigue estos pasos:
 - 5 (normal)
 - 6 (azul, tamaño más grande)
 
-## Contribuciones
-Las contribuciones son bienvenidas. Para colaborar:
-1. Realiza un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature-nueva-funcionalidad`).
-3. Realiza tus modificaciones y haz un commit (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Envía un pull request.
-
 ## Licencia
 Este proyecto se distribuye bajo la licencia [MIT](LICENSE).
 
